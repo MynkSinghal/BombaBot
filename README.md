@@ -15,7 +15,7 @@ BombaBot is a high quailty bot used for moderation and music and some fun comman
 [![Discord](https://discord.com/api/guilds/642410052770332672/embed.png)](https://discord.gg/ahKn4Dd) <a href ="https://github.com/Mayank-theDev/BombaBot">
 
 <!-- Code stats p2-->
-<a href ="http://discord.js.org"><img src = "https://img.shields.io/badge/Discord.js-Version--Stable-blue.svg?noavatar=true?style=plastic&maxAge=300"> <a href ="https://discord-akairo.github.io/"><img src = "https://img.shields.io/badge/Discordakairo-Version--Stable-blue.svg?noavatar=true?style=plastic&maxAge=300">  
+<a href ="http://discord.js.org"><img src = "https://img.shields.io/badge/Discord.js-Version--Stable-blue.svg?noavatar=true?style=plastic&maxAge=300"> <a href ="https://discord-akairo.github.io/">  
 
 <!-- Repo stats--> 
 [![GitHub license](https://img.shields.io/github/license/Dude-Perfect-Discord-Bot/Dude-Perfect.svg)](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect/blob/main/LICENSE) <a href ="https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect"><img src="https://img.shields.io/github/languages/top/Dude-Perfect-Discord-Bot/Dude-Perfect?noavatar=true?style=plastic&maxAge=300"> 
