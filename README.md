@@ -9,7 +9,7 @@ BombaBot is a high quailty bot used for moderation and music and some fun comman
 
 <!-- Bot stats-->
 
-[![Status](https://top.gg/api/widget/status/730307957081768037.svg?noavatar=true)](https://top.gg/bot/730307957081768037) [![Servers](https://top.gg/api/widget/servers/642410052770332672.svg?noavatar=true)](https://top.gg/bot/730307957081768037) [![Upvotes](https://top.gg/api/widget/upvotes/730307957081768037.svg?noavatar=true)](https://top.gg/bot/730307957081768037) [![Library](https://top.gg/api/widget/lib/730307957081768037.svg?noavatar=true)](https://top.gg/bot/730307957081768037) [![Owner](https://top.gg/api/widget/owner/730307957081768037.svg?noavatar=true)](https://top.gg/bot/730307957081768037)
+[![Discord Bots](https://top.gg/api/widget/status/730307957081768037.svg)](https://top.gg/bot/730307957081768037) [![Discord Bots](https://top.gg/api/widget/servers/730307957081768037.svg)](https://top.gg/bot/730307957081768037) [![Discord Bots](https://top.gg/api/widget/upvotes/730307957081768037.svg)](https://top.gg/bot/730307957081768037) [![Discord Bots](https://top.gg/api/widget/lib/730307957081768037.svg)](https://top.gg/bot/730307957081768037) [![Discord Bots](https://top.gg/api/widget/owner/730307957081768037.svg)](https://top.gg/bot/730307957081768037)
 
 <!-- Code stats p1-->
 [![Discord](https://discord.com/api/guilds/642410052770332672/embed.png)](https://discord.gg/ahKn4Dd) <a href ="https://github.com/Mayank-theDev/BombaBot">
