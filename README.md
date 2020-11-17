@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://cdn.discordapp.com/attachments/748774519707009055/770662369109213244/PicsArt_10-27-08.26.56.png" align="center">
+    <img src="https://media.discordapp.net/attachments/777029654506242048/778098362222116864/BOMBA_BOT.png" align="center">
   <br>
   <br>
     <strong> <i>Bomba Bot Is Made By our Countless Efforts!
