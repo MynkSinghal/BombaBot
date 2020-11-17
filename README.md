@@ -36,8 +36,8 @@ BombaBot is a high quailty bot used for moderation and music and some fun comman
 ## Want to Report a bug or want to ask for new features?
 Please [join our Discord](https://discord.gg/ahKn4Dd) There you can use ``b?suggest`` Command to Report a bug or a user, For new Feature request use ``b?suggest`` Command in our guild so that we receive your request!
 
-## Can I self-host Dude Perfect?
-Self-Hosting BombaBot is strictly Prohibbited, This repo is public just in case to le peope see transparency behind the code! We have our copyright license to take down cloned bots, Please be vigil regarding this!
+## Can I self-host BombaBot?
+Self-Hosting BombaBot is strictly Prohibited, This repo is public just in case to le peope see transparency behind the code! We have our copyright license to take down cloned bots, Please be vigil regarding this!
 
 ## Contributing
 Contributions are welcomed, but before this [Join our server](https://discord.gg/ahKn4Dd) and Dm any one of the developers!
