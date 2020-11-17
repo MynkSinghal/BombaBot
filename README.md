@@ -33,11 +33,11 @@ BombaBot is a high quailty bot used for moderation and music and some fun comman
 - [**Bomba Gamerz**](https://github.com/Bombagamerz)
 
 
-## How do I report a bug or suggest a feature?
-Feel free to open an issue with your bug report or feature request, with as many details as possible. If you'd like to write a feature, please open an issue first for discussion. For help with the bot, please see join [**Discord**](https://discord.gg/ZzbZpdw).
+## Want to Report a bug or want to ask for new features?
+Please [join our Discord](https://discord.gg/ahKn4Dd) There you can use ``b?suggest`` Command to Report a bug or a user, For new Feature request use ``b?suggest`` Command in our guild so that we receive your request!
 
 ## Can I self-host Dude Perfect?
-I wouldn't recommend it. Self-hosting this bot (running a copy yourself) is not supported, and no help will be provided for editing nor compiling the code in this repository. The source code is provided here for transparency about how the bot's primary features work. If you decide to edit, compile, or use this code in any way, please respect the [**license**](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect/blob/main/LICENSE).
+Self-Hosting BombaBot is strictly Prohibbited, This repo is public just in case to le peope see transparency behind the code! We have our copyright license to take down cloned bots, Please be vigil regarding this!
 
 ## Contributing
-Contributions to Dude Perfect are always appreciated, whether it be improvements to the documentation or new features, please feel free to make the change. Contact our developers on  [**Discord**](https://discord.gg/ZzbZpdw) before you get started.
+Contributions are welcomed, but before this [Join our server](https://discord.gg/ahKn4Dd) and Dm any one of the developers!
