@@ -19,7 +19,7 @@ BombaBot is a high quailty bot used for moderation and music and some fun comman
 
 <!-- Repo stats--> 
 [![GitHub license](https://img.shields.io/github/license/Dude-Perfect-Discord-Bot/Dude-Perfect.svg)](https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect/blob/main/LICENSE) <a href ="https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect"><img src="https://img.shields.io/github/languages/top/Dude-Perfect-Discord-Bot/Dude-Perfect?noavatar=true?style=plastic&maxAge=300"> 
-<a href="https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect"><img src="https://img.shields.io/github/issues-pr/Dude-Perfect-Discord-Bot/Dude-Perfect.svg?noavatar=true?style=plastic&maxAge=300"></a> <a href="https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect/issues"> <img src="https://img.shields.io/github/issues/Dude-Perfect-Discord-Bot/Dude-Perfect?noavatar=true?style=plastic&maxAge=300" alt="Issues">
+<a href="https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect"><img src="https://img.shields.io/github/issues-pr/Dude-Perfect-Discord-Bot/Dude-Perfect.svg?noavatar=true?style=plastic&maxAge=300"></a> <a href="https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect/issues"> <img src="https://img.shields.io/github/issues/Mayank-theDev/BombaBot?noavatar=true?style=plastic&maxAge=300" alt="Issues">
 </a>
 
 <br>
