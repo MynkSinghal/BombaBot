@@ -41,4 +41,6 @@ Self-Hosting BombaBot is strictly Prohibited, This repo is public just in case t
 ## Contributing
 Contributions are welcomed, but before this [Join our server](https://discord.gg/ahKn4Dd) and Dm any one of the developers!
 
-<iframe src="https://bomba-website.glitch.me/" title="BombaBot Official Website"></iframe>
+<a href="https://top.gg/bot/730307957081768037">
+    <img src="https://top.gg/api/widget/730307957081768037.svg" alt="BombaBot" />
+</a>
