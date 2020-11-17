@@ -12,8 +12,8 @@ BombaBot is a high quailty bot used for moderation and music and some fun comman
 [![Status](https://top.gg/api/widget/status/730307957081768037.svg?noavatar=true)](https://top.gg/bot/730307957081768037) [![Servers](https://top.gg/api/widget/servers/642410052770332672.svg?noavatar=true)](https://top.gg/bot/730307957081768037) [![Upvotes](https://top.gg/api/widget/upvotes/730307957081768037.svg?noavatar=true)](https://top.gg/bot/730307957081768037) [![Library](https://top.gg/api/widget/lib/730307957081768037.svg?noavatar=true)](https://top.gg/bot/730307957081768037) [![Owner](https://top.gg/api/widget/owner/730307957081768037.svg?noavatar=true)](https://top.gg/bot/730307957081768037)
 
 <!-- Code stats p1-->
-[![Discord](https://discord.com/api/guilds/748808130946793483/embed.png)](https://discord.gg/ZzbZpdw) <a href ="https://github.com/Dude-Perfect-Discord-Bot/Dude-Perfect"><img src = "https://img.shields.io/badge/Dude Perfect Version-V 2.1.4-orange.svg?noavatar=true?style=plastic&maxAge=300"> 
-730307957081768037
+[![Discord](https://discord.com/api/guilds/642410052770332672/embed.png)](https://discord.gg/ahKn4Dd) <a href ="https://github.com/Mayank-theDev/BombaBot">
+
 <!-- Code stats p2-->
 <a href ="http://discord.js.org"><img src = "https://img.shields.io/badge/Discord.js-Version--Stable-blue.svg?noavatar=true?style=plastic&maxAge=300"> <a href ="https://discord-akairo.github.io/"><img src = "https://img.shields.io/badge/Discordakairo-Version--Stable-blue.svg?noavatar=true?style=plastic&maxAge=300">  
 
