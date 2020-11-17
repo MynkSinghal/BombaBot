@@ -28,12 +28,10 @@ BombaBot is a high quailty bot used for moderation and music and some fun comman
 </div>
 
 
-## Developers 
-- [**Anish Shobith**](https://github.com/Anish-Shobith)
-- [**Hound**](https://github.com/Warrior-hound)
-- [**Kartik**](https://github.com/OfficialKartik)
-- [**Piyush**](https://github.com/officialpiyush)
-- [**Xynox**](https://github.com/XynoxTheDev)
+## Bomba Developers 
+- [**Mayank Singhal**](https://github.com/Mayank-theDev)
+- [**Bomba Gamerz **]()
+
 
 ## How do I report a bug or suggest a feature?
 Feel free to open an issue with your bug report or feature request, with as many details as possible. If you'd like to write a feature, please open an issue first for discussion. For help with the bot, please see join [**Discord**](https://discord.gg/ZzbZpdw).
