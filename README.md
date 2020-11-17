@@ -30,7 +30,7 @@ BombaBot is a high quailty bot used for moderation and music and some fun comman
 
 ## Bomba Developers 
 - [**Mayank Singhal**](https://github.com/Mayank-theDev)
-- [**Bomba Gamerz **](https://github.com/Bombagamerz)
+- [**Bomba Gamerz**](https://github.com/Bombagamerz)
 
 
 ## How do I report a bug or suggest a feature?
