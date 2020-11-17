@@ -26,6 +26,8 @@ BombaBot is a high quailty bot used for moderation and music and some fun comman
 
 </div>
 
+## WARNING
+This Code is from the v3.1.1 of the bot, Therefore It lacks many commands and we wont be updating this repo to v4 which is the latest version, However next release will be updated Here!
 
 ## Bomba Developers 
 - [**Mayank Singhal**](https://github.com/Mayank-theDev)
