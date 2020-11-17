@@ -27,6 +27,7 @@ BombaBot is a high quailty bot used for moderation and music and some fun comman
 
 </div>
 
+
 ## Developers 
 - [**Anish Shobith**](https://github.com/Anish-Shobith)
 - [**Hound**](https://github.com/Warrior-hound)
